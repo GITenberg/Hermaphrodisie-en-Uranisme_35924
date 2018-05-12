@@ -1,0 +1,28 @@
+_repo: Hermaphrodisie-en-Uranisme_35924
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Aletrino, Arnold
+    birthdate: 1858
+    deathdate: 1916
+    gutenberg_agent_id: '37981'
+    url: http://www.gutenberg.org/2009/agents/37981
+    wikipedia: http://nl.wikipedia.org/wiki/Arnold_Aletrino
+description: ''
+gutenberg_issued: '2011-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35924'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Intersexuality'
+- !lcsh 'Homosexuality'
+- !lcc 'HQ'
+title: Hermaphrodisie en Uranisme
+url: http://www.gutenberg.org/ebooks/35924
